@@ -79,9 +79,6 @@
 	.blog-sidebar{
 		margin-top: 50px;
 	}
-	.top-navbar .navbar{
-		border-radius: 0px 0px 50px 50px;
-	}
 	
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
